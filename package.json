@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "vite": "^6.0.11"
+  },
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "main": "script.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
